@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkekyTv
 - 👀 I’m interested in software development and gaming !
-- 🌱 I’m currently learning Python !
+- 🌱 I’m currently learning K8s/NestJs/Micro-services architecture !
 - 💞️ I strat streaming on twitch recently, and i would love to learn with people !
       So i start  to stream personal project development on twitch !
 - 📫 How to reach me: skeky.stream@gmail.com
